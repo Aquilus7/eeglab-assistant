@@ -1,2 +1,2 @@
 # eeglab-assistant
-a collection of function (cca bss, mark insertion for resting data, automatic remove of components ) to assist eeg preprocessing 
+eeglab_assistant is a collection of functions to assist eeg anlysis based on eeglab tool box. For now it has 3 main functions: ccac, restev, autodc to do blind seperation based on canonical correlation analysis (cca bss), mark insertion for resting data, automatic components remove respectively. It can help people with basic matlab coding skill to do preprocessing faster and automatically.
